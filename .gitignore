@@ -1,0 +1,35 @@
+# 🐍 Python virtual environment
+MARKET/
+venv/
+
+# 🧪 Python cache & compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# 💻 OS/system files
+.DS_Store
+Thumbs.db
+
+# 🧠 IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# 📦 Package builds
+build/
+dist/
+*.egg-info/
+
+# 📊 Logs and temporary data
+*.log
+*.tmp
+*.bak
+
+# 📂 Jupyter Notebook checkpoints (if you use notebooks)
+.ipynb_checkpoints/
+
+# 🔒 Secrets/config (if applicable)
+.env
